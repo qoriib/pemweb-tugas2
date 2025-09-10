@@ -41,3 +41,7 @@ Proyek ini menggunakan elemen semantik HTML5 untuk meningkatkan aksesibilitas da
 3. **Keterbatasan styling (tanpa CSS)**  
    Tantangan: Tampilan masih sederhana.  
    Solusi: Fokus pada struktur semantik dulu sesuai instruksi tugas. CSS dapat ditambahkan kemudian.
+
+## Hosting
+
+GitHub: (https://qoriib.github.io/pemweb-tugas2)[https://qoriib.github.io/pemweb-tugas2]
